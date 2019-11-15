@@ -85,7 +85,6 @@ section {
     &:not(.visible) {
       opacity: 0;
       transform: translateY(-64px);
-      pointer-events: none;
     }
 
     h2 {
