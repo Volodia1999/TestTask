@@ -1,8 +1,8 @@
 document.querySelectorAll(".toggle-more-info").forEach((el) => {
-   el.addEventListener("click", ({target}) => {
-       target.classList.toggle("active");
-       target.parentElement.querySelector(".more-info").classList.toggle("visible");
-   })
+    el.addEventListener("click", ({target}) => {
+        target.classList.toggle("active");
+        target.parentElement.querySelector(".more-info").classList.toggle("visible");
+    })
 });
 
 document.getElementById('open-button').addEventListener('click', () => {
