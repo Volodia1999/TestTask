@@ -1,4 +1,4 @@
 # TestTask
-cd PozitiFF
-npm install
-Open the browser
+#cd PozitiFF
+#npm install
+#Open the browser
