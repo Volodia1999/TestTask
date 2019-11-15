@@ -1,4 +1,4 @@
 # TestTask
-#cd PozitiFF
-#npm install
-#Open the browser
+1. cd PozitiFF
+2. npm install
+3. Open the browser
